@@ -1,0 +1,5 @@
+https://sproutsocial.com/insights/social-media-data/
+https://www.w3schools.com/xml/xpath_syntax.asp
+https://devhints.io/xpath
+https://learn.shayhowe.com/advanced-html-css/complex-selectors/
+https://www.browserstack.com/guide/locators-in-selenium
